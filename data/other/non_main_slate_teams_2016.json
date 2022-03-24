@@ -1,0 +1,17 @@
+{
+  "2": ["nyj", "buf", "gnb", "min", "phi", "chi", "NYJ", "BUF", "GB", "MIN", "PHI", "CHI"],
+  "3": ["hou", "nwe", "chi", "dal", "atl", "nor", "HOU", "NE", "CHI", "DAL", "ATL", "NO"],
+  "4": ["mia", "cin", "kan", "pit", "nyg", "min", "MIA", "CIN", "KC", "PIT", "NYG", "MIN"],
+  "5": ["ari", "sfo", "nyg", "gnb", "tam", "car", "ARI", "SF", "NYG", "GB", "TB", "CAR"],
+  "6": ["den", "sdg", "ind", "hou", "nyj", "ari", "DEN", "LAC", "IND", "HOU", "NYJ", "ARI"],
+  "7": ["chi", "gnb", "sea", "ari", "hou", "den", "CHI", "GB", "SEA", "ARI", "HOU", "DEN"],
+  "8": ["jac", "ten", "phi", "dal", "min", "chi", "JAX", "TEN", "PHI", "DAL", "MIN", "CHI"],
+  "9": ["atl", "tam", "den", "oak", "buf", "sea", "ATL", "TB", "DEN", "OAK", "BUF", "SEA"],
+  "10": ["cle", "bal", "sea", "nwe", "cin", "nyg", "CLE", "BAL", "SEA", "NE", "CIN", "NYG"],
+  "11": ["nor", "car", "gnb", "was", "hou", "oak", "NO", "CAR", "GB", "WAS", "HOU", "OAK"],
+  "12": ["min", "det", "was", "dal", "pit", "ind", "nwe", "nyj", "gnb", "phi",
+         "MIN", "DET", "WAS", "DAL", "PIT", "IND", "NE", "NYJ", "GB", "PHI"],
+  "13": ["dal", "min", "car", "sea", "ind", "nyj", "DAL", "MIN", "CAR", "SEA", "IND", "NYJ", "DAL"],
+  "15": ["lar", "sea", "mia", "nyj", "pit", "cin", "car", "was", "LAR", "SEA", "MIA", "NYJ", "PIT", "CIN", "CAR", "WAS"],
+  "16": ["nyg", "phi", "bal", "pit", "den", "kan", "det", "dal", "NYG", "PHI", "BAL", "PIT", "DEN", "KC", "DET", "DAL"]
+}

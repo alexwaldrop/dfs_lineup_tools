@@ -1,0 +1,14 @@
+{
+  "1": ["GB", "CHI", "PIT", "NE", "HOU", "NO", "DEN", "OAK"],
+  "2": ["TB", "CAR", "PHI", "ATL", "CLE", "NYJ"],
+  "3": ["TEN", "JAX", "LAR", "CLE", "CHI", "WAS"],
+  "4": ["PHI", "GB", "CIN", "PIT", "DAL", "NO"],
+  "5": ["LAR", "SEA", "SF", "CLE", "IND", "KC"],
+  "6": ["GB", "PIT", "DET", "LAC", "NE", "NYG", "CAR", "TB"],
+  "7": ["KC", "DEN", "PHI", "DAL", "NE", "NYJ"],
+  "8": ["PIT", "MIA", "WAS", "MIN", "GB", "KC"],
+  "9": ["NE", "BAL", "SF", "ARI", "NYG", "DAL"],
+  "10": ["SD", "OAK", "MIN", "DAL", "SEA", "SF"],
+  "11": ["PIT", "CLE", "CHI", "LAR", "KC", "SD"],
+  "12": ["HOU", "IND", "SF", "GB", "BAL", "LAR"]
+}
